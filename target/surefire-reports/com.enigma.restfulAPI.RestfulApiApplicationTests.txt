@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.enigma.restfulAPI.RestfulApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.408 s - in com.enigma.restfulAPI.RestfulApiApplicationTests

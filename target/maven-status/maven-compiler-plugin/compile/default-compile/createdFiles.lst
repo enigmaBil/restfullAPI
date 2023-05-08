@@ -1,0 +1,6 @@
+com\enigma\restfulAPI\RestfulApiApplication.class
+com\enigma\restfulAPI\controller\GoodController.class
+com\enigma\restfulAPI\service\GoodService.class
+com\enigma\restfulAPI\repository\GoodRepository.class
+com\enigma\restfulAPI\service\GoodServiceImpl.class
+com\enigma\restfulAPI\entity\Good.class
